@@ -1,7 +1,6 @@
 [README.md](https://github.com/user-attachments/files/35385509/README.md)
 # Secure SMS with RSA and ECC
 
-Final project for **LIS4062 Information Security** (Universidad de las Américas Puebla, Autumn 2026).
 
 The repository contains two independent implementations that compare RSA and Elliptic Curve Cryptography (ECC) for protecting SMS messages:
 
